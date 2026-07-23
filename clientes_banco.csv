@@ -1,0 +1,11 @@
+ID_CLIENTE,NOME,IDADE,CIDADE,SALDO,CATEGORIA,STATUS
+101,Ana Silva,28,São Paulo,14500.50,Bronze,Ativo
+102,Carlos Oliveira,45,Rio de Janeiro,89000.00,Gold,Ativo
+103,Mariana Costa,34,Belo Horizonte,2300.00,Bronze,Inativo
+104,Fernando Souza,52,Curitiba,150000.75,Platinum,Ativo
+105,Juliana Lima,29,São Paulo,,Bronze,Ativo
+106,Lucas Pereira,61,Porto Alegre,42000.00,Silver,Ativo
+107,Beatriz Rocha,22,Rio de Janeiro,850.20,Bronze,Inativo
+108,Roberto Alves,39,São Paulo,95000.00,Gold,Ativo
+109,Camila Martins,31,Curitiba,3100.00,Bronze,Ativo
+110,Gustavo Ribeiro,48,Belo Horizonte,210000.00,Platinum,Ativo
